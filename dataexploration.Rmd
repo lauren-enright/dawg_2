@@ -5,6 +5,7 @@ date: "2024-05-03"
 output: html_document
 ---
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
@@ -99,6 +100,9 @@ site_level %>%
 ```
 
 
+# This is a new space -Hill
+# This is a new....now I'm deleting a portion of J's comment line
+
 
 ```{r forereef 17}
 
@@ -115,6 +119,8 @@ site_level %>%
   geom_errorbar(aes(ymax = mean_site_cover + site_se,
                 ymin = mean_site_cover - site_se)) +
   facet_wrap(~Site)
+#hi again
 
+#New line 
 ```
 
