@@ -28,8 +28,10 @@ long_data <- pivot_longer(
 #HI EVERYONE!! 
 # BREAKING STUFF
 # woooooooo!!!!!!!
+``` 
+#its so pretty outside
 
-``` #its so pretty outside
+# conflict!!!!!
 
 #look at sites by location (back, fringing, forereef)
 ```{r backreef}
