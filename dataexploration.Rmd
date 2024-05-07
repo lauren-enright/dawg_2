@@ -24,6 +24,10 @@ long_data <- pivot_longer(
   names_to = "taxa",
   values_to = "percent_cover") 
 
+#HI EVERYONE!! 
+# BREAKING STUFF
+# woooooooo!!!!!!!
+
 ```
 
 #look at sites by location (back, fringing, forereef)
